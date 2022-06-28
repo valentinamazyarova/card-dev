@@ -1,0 +1,1 @@
+export const serverPath = "https://faint-pretty-braid.glitch.me/"
